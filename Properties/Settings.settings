@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CustomDiscordRichPresence___by_Freddi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">561750621678600232</Value>
+    </Setting>
+    <Setting Name="Details" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DiscordRP</Value>
+    </Setting>
+    <Setting Name="State" Type="System.String" Scope="User">
+      <Value Profile="(Default)">by Freddi</Value>
+    </Setting>
+    <Setting Name="LargeImageKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">image_large</Value>
+    </Setting>
+    <Setting Name="LargeImageText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">you have to change it...</Value>
+    </Setting>
+    <Setting Name="SmallImageKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">image_small</Value>
+    </Setting>
+    <Setting Name="SmallImageText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">you have to change it...</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
