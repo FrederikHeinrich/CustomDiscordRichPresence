@@ -2,7 +2,7 @@
 using System.Configuration;
 using Microsoft.Win32;
 
-namespace CustomDiscordRichPresence___by_Freddi.Properties {
+namespace CustomDiscordRichPresence {
     
     
     // Diese Klasse ermöglicht die Behandlung bestimmter Ereignisse der Einstellungsklasse:

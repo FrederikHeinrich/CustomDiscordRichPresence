@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CustomDiscordRichPresence___by_Freddi
+namespace CustomDiscordRichPresence
 {
     static class Program
     {

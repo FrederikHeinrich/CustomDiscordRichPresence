@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using DiscordRPC;
 using Microsoft.Win32;
 
-namespace CustomDiscordRichPresence___by_Freddi
+namespace CustomDiscordRichPresence
 {
     public partial class MainFrame : Form
     {
@@ -127,6 +127,11 @@ namespace CustomDiscordRichPresence___by_Freddi
             key.SetValue("SmallImageKey", MainFrame.SmallImageKey);
             key.SetValue("SmallImageText", MainFrame.SmallImageText);
             key.Close();
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://patreon.com/Freddi_xyz");
         }
     }
 }

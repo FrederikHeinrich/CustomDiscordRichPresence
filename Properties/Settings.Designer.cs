@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CustomDiscordRichPresence___by_Freddi.Properties {
+namespace CustomDiscordRichPresence.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
